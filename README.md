@@ -26,7 +26,7 @@ This is my solution to the Clipboard-landing-Page on Frontend Mentor. Frontend M
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/nathan5792/Clipboard-Landing-Page.git
 - Live Site URL: https://nathan5792.github.io/Clipboard-Landing-Page/
 
 ## My process
